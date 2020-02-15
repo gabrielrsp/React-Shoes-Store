@@ -12,9 +12,9 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-To get data from the fake api you can run:
+### `json-server server.json -p 3333`
 
-### `json-server server.json -p 3333
+To get data from the fake api you can run:
 
 
 ### `yarn test`
