@@ -3,6 +3,10 @@ This is a simple shoes e-commerce application where you can see the shoes on sal
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Install de dependencies of the project
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
@@ -14,7 +18,7 @@ You will also see any lint errors in the console.
 
 ### `json-server server.json -p 3333`
 
-Runs the fake api where the application will get the data
+Runs the fake api where the application will get the data.
 
 
 ### `yarn test`
