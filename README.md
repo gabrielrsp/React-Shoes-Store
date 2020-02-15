@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple e-commerce application. the features are a basic, where you can see the shoes on sale, add them to cart (the cart also with make the total count) and remove shoes from the cart. 
 
-## Available Scripts
 
 In the project directory, you can run:
 
@@ -11,6 +10,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+
+To get data from the fake api you can run:
+
+### `json-server server.json -p 3333
+
 
 ### `yarn test`
 
