@@ -1,4 +1,4 @@
-This is a simple e-commerce application. the features are a basic, where you can see the shoes on sale, add them to cart (the cart also with make the total count) and remove shoes from the cart. 
+This is a simple shoes e-commerce application where you can see the shoes on sale, add them to cart (the cart also with make the total count) and remove shoes from the cart. 
 
 
 In the project directory, you can run:
