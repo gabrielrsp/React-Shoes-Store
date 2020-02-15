@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### `json-server server.json -p 3333`
 
-To get data from the fake api you can run:
+Runs the fake api where the application will get the data
 
 
 ### `yarn test`
