@@ -3,6 +3,10 @@ This is a simple shoes e-commerce application where you can see the shoes on sal
 
 In the project directory, you can run:
 
+### `npm install -g json-server`
+
+Install the json-server.
+
 ### `yarn install`
 
 Install the dependencies of the project.
