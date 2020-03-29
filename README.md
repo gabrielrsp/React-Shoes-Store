@@ -6,6 +6,10 @@ This is a simple shoes e-commerce application where you can see the shoes on sal
 ![](cart.png)
 
 
+## Technologies Used
+   HTML, CSS, Javascript - ReactJS, Redux
+
+
 In the project directory, you can run:
 
 ### `npm install -g json-server`
