@@ -1,5 +1,9 @@
 This is a simple shoes e-commerce application where you can see the shoes on sale, add them to cart (the cart also with make the total count) and remove shoes from the cart. 
 
+![](main.png)
+### 
+![](cart.png)
+
 
 In the project directory, you can run:
 
