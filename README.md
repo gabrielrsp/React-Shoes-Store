@@ -7,7 +7,7 @@ This is a simple shoes e-commerce application where you can see the shoes on sal
 
 
 ## Technologies Used
-   HTML, CSS, Javascript - ReactJS, Redux
+   HTML, CSS Styled Components, Javascript - ReactJS, Redux
 
 
 In the project directory, you can run:
